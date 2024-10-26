@@ -1,9 +1,9 @@
-.main{
-    width: 100%;
-    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(OIP.jpeg);
-    background-position: center;
+body{
+    background-image: url("OIP.jpeg");
+    background-repeat: no-repeat;
+    backgroun-position: center;
+    background-attachment: fixed;
     background-size: cover;
-    height: 100vh;
 }
 *{
     margin: 0;
