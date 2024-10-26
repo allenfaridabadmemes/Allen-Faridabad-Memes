@@ -19,7 +19,6 @@ body{
 
 .icon{
     width: 200px;
-    float: left;
     height: 70px;
 }
 
@@ -34,6 +33,5 @@ body{
 
 .menu{
     width: 400px;
-    float: left;
     height: 70px;
 }
