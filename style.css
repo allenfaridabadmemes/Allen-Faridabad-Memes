@@ -28,7 +28,8 @@ body{
     font-family: Arial;
     padding-left: 120px;
     padding-top: 10px;
-    margin-top: 5px
+    margin-top: 5px;
+    margin-left: 120px;
 }
 
 .menu{
